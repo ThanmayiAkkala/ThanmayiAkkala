@@ -26,7 +26,7 @@ Hi, I'm Thanmayi Akkala!
 📚 I have a Masters in Computer Science from the University of Illinois at Chicago
 📝 I have a strong interest in Software Engineering and GenAI
 🔭 Working on GenAI, NLP, Deep Learning, Machine Learning and AI
-🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Strong knowledge of cloud computing, distributed systems, object-oriented programming
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 <!-- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a> -->
