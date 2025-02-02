@@ -24,8 +24,8 @@ Hi, I'm Thanmayi Akkala!
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Masters in Computer Science from the University of Illinois at Chicago
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
+📝 I have a strong interest in Software Engineering and GenAI
+🔭 Working on GenAI, NLP, Deep Learning, Machine Learning and AI
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
